@@ -20,9 +20,9 @@
     "author": "Tommy Chung <tom555my@gmail.com>",
     "license": "MIT",
     "devDependencies": {
-        "@types/react": "^16.9.52",
-        "@types/react-dom": "^16.9.8",
-        "@types/react-native": "^0.63.25",
+        "@types/react": "^16.8.16",
+        "@types/react-dom": "^16.8.6",
+        "@types/react-native": "^0.60.5",
         "typescript": "^3.2.2"
     },
     "dependencies": {
